@@ -9,5 +9,5 @@ Simply install the app and customize the About Me, Skills and Project sections a
 
 ## 🔗 LINKS
 - 💪 Made by: **ManLoJe#0001**
-- 💬 Discord: [ManLoJe Studios](https://dsc.gg/manloje)
+- 💬 Discord: [Plex Development](https://dsc.gg/manloje)
 - 🛠 Tools Used: [Bootstrap v5](https://getbootstrap.com/), [Fontawesome](https://fontawesome.com/), [Google Fonts](https://fonts.google.com/), [Tippy](https://atomiks.github.io/tippyjs/)
