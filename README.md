@@ -8,6 +8,6 @@ Simply install the app and customize the About Me, Skills and Project sections a
 <img src="https://i.imgur.com/QEGZuSS_d.webp?maxwidth=760&fidelity=grand" alt="banner">
 
 ## 🔗 LINKS
-- 💪 Made by: **ManLoJe#0001**
+- 💪 Made by: Idk
 - 💬 Discord: [Plex Development](https://dsc.gg/manloje)
 - 🛠 Tools Used: [Bootstrap v5](https://getbootstrap.com/), [Fontawesome](https://fontawesome.com/), [Google Fonts](https://fonts.google.com/), [Tippy](https://atomiks.github.io/tippyjs/)
